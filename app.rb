@@ -1,6 +1,7 @@
 # Falta verificar se no windows o caminho está em bom termo
 # Falta adicionar o Gem que permite drag and drop de arquivos para organizar
 # Falta adicionar o Gem que permite criar uma interface gráfica para o menu, tornando mais amigável
+# Falta adicionar o Gem que permite criar um sistema de notificações
 require 'active_record'
 require 'bcrypt'
 require 'fileutils'
