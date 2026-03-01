@@ -2,6 +2,7 @@
 # Falta adicionar o Gem que permite drag and drop de arquivos para organizar
 # Falta adicionar o Gem que permite criar uma interface gráfica para o menu, tornando mais amigável
 # Falta adicionar o Gem que permite criar um sistema de notificações
+# Falta adicionar o Gem que permite criar um sistema de backup automático dos arquivos organizados
 require 'active_record'
 require 'bcrypt'
 require 'fileutils'
